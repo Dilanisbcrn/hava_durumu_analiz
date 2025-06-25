@@ -1,4 +1,5 @@
-1. Giriş
+#Hava Durumuna Dayalı Spotify Şarkı Popülerliği Tahmin ve Öneri Sistemi
+#1. Giriş
 Teknolojik gelişmelerle birlikte bireylerin günlük yaşamları dijital ortamlarda şekillenmeye başlamış ve özellikle müzik dinleme alışkanlıkları kişisel tercihlere göre büyük bir çeşitlilik kazanmıştır. Bu tercihler yalnızca bireysel beğenilerden değil, aynı zamanda çevresel faktörlerden de etkilenmektedir. Yapılan araştırmalar, insanların ruh hâlinin ve çevresel koşulların (hava durumu gibi) müzik tercihleri üzerinde belirleyici bir etkisi olduğunu ortaya koymuştur.
 
 Bu projede kullanıcıların o anki hava durumu bilgisi temel alınarak, onlara uygun Spotify şarkı önerilerinde bulunabilecek bir sistem geliştirilmiştir. Sistem, önerilen şarkıların popülerlik düzeyini de tahmin eden bir makine öğrenmesi modeli içermektedir. Proje boyunca veri temizleme, dengesiz sınıfları dengeleme, model seçimi ve optimizasyon süreçleri titizlikle yürütülmüştür. Nihai hedef, kullanıcıya o anki çevresel koşullara göre anlamlı ve yüksek kaliteli öneriler sunmaktır.
